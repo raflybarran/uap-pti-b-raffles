@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --gee4igithubio-inter-semi-bold-1563: Inter;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base-6: 15.6px;
+  --font-size-base-8: 15.8px;
+  --gee4igithubio-inter-semi-bold-16-size: 16px;
+  --font-size-sm-5: 13.5px;
+  --gee4igithubio-inter-semi-bold-32-size: 32px;
+  --font-size-mini: 15px;
+  --font-size-11xl-8: 30.8px;
+  --font-size-4xl-8: 23.8px;
+  --font-size-35xl-4: 54.4px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-lightgray: #d1d1d1;
+
+  /* Gaps */
+  --gap-28xl: 47px;
+
+  /* Paddings */
+  --padding-10xs: 3px;
+  --padding-61xl: 80px;
+  --padding-29xl: 48px;
+  --padding-12xs: 1px;
+  --padding-0: 0px;
+  --padding-mid: 17px;
+  --padding-21xl: 40px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+}
